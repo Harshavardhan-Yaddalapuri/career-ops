@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.14.0](https://github.com/santifer/career-ops/compare/career-ops-v1.13.0...career-ops-v1.14.0) (2026-06-25)
+
+
+### Features
+
+* **batch:** add --limit flag + budget guide ([0607ee5](https://github.com/santifer/career-ops/commit/0607ee57e176c93422732ee1ad1530cd606f70b6))
+* **modes:** add Danish (da) locale ([5407811](https://github.com/santifer/career-ops/commit/54078118a70fa6b42123a68450bb584206af8ac4))
+
 ## [1.13.0](https://github.com/santifer/career-ops/compare/career-ops-v1.12.0...career-ops-v1.13.0) (2026-06-25)
 
 
